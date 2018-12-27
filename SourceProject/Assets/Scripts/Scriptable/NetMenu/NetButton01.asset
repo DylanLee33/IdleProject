@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3598ac755ad854da18d95323f7d688, type: 3}
+  m_Name: NetButton01
+  m_EditorClassIdentifier: 
+  nameText: Upgrade 01
+  researchText: Purchase
+  netText: 'Increases fish caught in the net to '
+  costAmount: 10
+  netCapacity: 10
+  containerInt: 1
+  menuInt: 0
+  hasPurchased: 1
+  scientificNotation: 0
+  normalColor: {r: 0.32941177, g: 0.32941177, b: 0.32941177, a: 1}
+  purchasableColor: {r: 0.007843138, g: 1, b: 0, a: 1}
